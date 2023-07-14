@@ -1,0 +1,2 @@
+python omnisDEC.py
+pause
